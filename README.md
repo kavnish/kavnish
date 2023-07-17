@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avnish
-- 👀 I’m interested at the intersection of Audio and ML.
+- 👀 I’m interested in the intersection of Audio and ML.
 - 🌱 I’m currently working on Deep Recommender Systems for Music.
 - 📫 How to reach me avnish.kumar.24.ak.ak@gmail.com
 
